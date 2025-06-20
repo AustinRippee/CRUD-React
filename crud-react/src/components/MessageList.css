@@ -1,0 +1,13 @@
+.message-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+.message-item {
+  background: #e3f2fd;
+  padding: 0.75rem;
+  border-radius: 6px;
+}
+.message-controls a {
+  margin-right: 1rem;
+}
